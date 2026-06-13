@@ -1,3 +1,5 @@
+package Assignment2.SectionC_Inheritance
+
 open class Person(val name: String, val age: Int) {
     open fun introduce() {
         println("I am $name, $age years old.")

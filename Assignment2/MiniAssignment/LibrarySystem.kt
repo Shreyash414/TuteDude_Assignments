@@ -1,3 +1,5 @@
+package Assignment2.MiniAssignment
+
 class Book(val title: String, val author: String) {
     fun display() {
         println("\"$title\" by $author")

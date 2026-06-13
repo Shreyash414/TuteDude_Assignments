@@ -1,3 +1,5 @@
+package Assignment2.SectionB_Encapsulation
+
 class BankAccount(initialBalance: Double) {
     private var balance: Double = initialBalance
 

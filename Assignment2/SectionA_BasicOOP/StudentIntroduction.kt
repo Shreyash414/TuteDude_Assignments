@@ -1,3 +1,5 @@
+package Assignment2.SectionA_BasicOOP
+
 class Student(val name: String, val rollNumber: Int) {
     fun introduce() {
         println("Hi, my name is $name and my roll number is $rollNumber.")

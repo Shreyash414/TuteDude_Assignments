@@ -1,3 +1,5 @@
+package Assignment2.SectionC_Inheritance
+
 open class Animal(val name: String) {
     open fun eat() {
         println("$name is eating.")

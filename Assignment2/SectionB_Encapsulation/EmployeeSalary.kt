@@ -1,3 +1,5 @@
+package Assignment2.SectionB_Encapsulation
+
 class Employee(val name: String) {
     private var salary: Double = 0.0
 

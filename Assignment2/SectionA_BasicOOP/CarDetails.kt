@@ -1,3 +1,5 @@
+package Assignment2.SectionA_BasicOOP
+
 class Car(val brand: String, val model: String, val price: Double) {
     fun printDetails() {
         println("Brand: $brand | Model: $model | Price: ₹$price")
